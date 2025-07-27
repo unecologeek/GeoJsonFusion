@@ -86,6 +86,8 @@ See the [LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html) file or website
 <img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ecb17ef3-01e5-4740-b934-5dc35e807a50" />
 <img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/6a206827-ddbe-42ea-bad7-005c9cc35d10" />
 <img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ff10e84c-d8f9-4489-a618-3bd72af4f9d4" />
+<img width="1372" height="914" alt="image" src="https://github.com/user-attachments/assets/1bdf96cb-24be-495b-8712-4a2980881239" />
+
 <img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/4374e733-435c-41ca-a7a0-f36dd555e737" />
 <img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ddbb6810-5351-4914-b896-4c0a660265bb" />
 
