@@ -5,6 +5,8 @@ A sophisticated web application designed to analyze, configure, and merge two Ge
 The tool allows for granular control over how features and their properties are combined, with separate rules for recognized sovereign states and dependent territories. It provides detailed analysis, a side-by-side comparison interface, and powerful tools for resolving data conflicts and enriching translations.
 
 ---
+<img width="692" height="920" alt="image" src="https://github.com/user-attachments/assets/a8ca2a62-073c-41f8-b1dc-a620b9a69441" />
+
 
 ## ✨ Features
 
