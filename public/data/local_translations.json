@@ -1,0 +1,24 @@
+
+{
+  "France": {
+    "de": "Frankreich",
+    "es": "Francia",
+    "it": "Francia",
+    "pt": "França",
+    "ru": "Франция",
+    "ja": "フランス",
+    "zh": "法国"
+  },
+  "Germany": {
+    "fr": "Allemagne",
+    "es": "Alemania",
+    "it": "Germania",
+    "pt": "Alemanha",
+    "ru": "Германия",
+    "ja": "ドイツ",
+    "zh": "德国"
+  },
+  "Instructions": {
+    "note": "This file is for user-defined local translations. The application can also attempt to fetch and process translations directly from the Unicode CLDR. If that process is used, this file might serve as a fallback or example, but direct CLDR fetching (when triggered in the UI) will generally take precedence for its own lookups."
+  }
+}

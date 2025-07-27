@@ -1,0 +1,6 @@
+{
+  "name": "Natural Earth GeoJSON Fusion Tool",
+  "description": "A web application to analyze and merge two GeoJSON datasets containing country information, allowing users to choose how features and properties are combined.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

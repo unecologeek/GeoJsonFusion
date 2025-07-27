@@ -1,0 +1,27 @@
+[
+  {
+    "key": "ne_110m_main",
+    "name": "Natural Earth 110m Admin Countries",
+    "path": "/data/ne_110m_admin_0_countries.geojson"
+  },
+  {
+    "key": "ne_110m_candidate",
+    "name": "Natural Earth 110m Admin Countries (Candidate)",
+    "path": "/data/ne_110m_admin_0_countries_candidate.geojson"
+  },
+  {
+    "key": "ne_50m",
+    "name": "Natural Earth 50m Admin Countries",
+    "path": "/data/ne_50m_admin_0_countries.geojson.geojson"
+  },
+  {
+    "key": "fused 26 06 25",
+    "name": "fused 26 06 25 from ne_110m_main and ne_50m",
+    "path": "/data/fused_countries_2025-06-26.geojson"
+  },
+  {
+    "key": "Current fused 2025 07 22",
+    "name": "Current fused 20250722",
+    "path": "/data/ne_110m_admin_0_countries_current.geojson"
+  }  
+]
