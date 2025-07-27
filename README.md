@@ -83,6 +83,13 @@ This project is licensed under the **GNU Affero General Public License v3.0**.
 See the [LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html) file or website for full details. In short, this means you are free to use, modify, and distribute this software, but if you run a modified version on a network server, you must also make the source code of your modified version available to its users.
 
 ---
+<img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ecb17ef3-01e5-4740-b934-5dc35e807a50" />
+<img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/6a206827-ddbe-42ea-bad7-005c9cc35d10" />
+<img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ff10e84c-d8f9-4489-a618-3bd72af4f9d4" />
+<img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/4374e733-435c-41ca-a7a0-f36dd555e737" />
+<img width="692" height="952" alt="image" src="https://github.com/user-attachments/assets/ddbb6810-5351-4914-b896-4c0a660265bb" />
+
+
 
 ## 🛠️ Project Structure
 
